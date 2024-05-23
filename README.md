@@ -1,1 +1,1 @@
-HELP ME! I'M MY LATITUDE IS AT 38.92594494856396
+This game allows you to play tic tac toe.
